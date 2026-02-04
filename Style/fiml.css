@@ -1,0 +1,47 @@
+h1 {
+  background-color: red;
+  border-radius: 20px;
+  border: 2px solid green;
+  text-align: center;
+  -webkit-text-stroke: 2px green;
+}
+h2 {
+  background-color: grey;
+  border-left: red solid 7px;
+  border-radius: 5px;
+}
+h3 {
+  color: chocolate;
+}
+audio {
+  width: 100%;
+  box-shadow: 5px 5px 25px blueviolet;
+  border-radius: 25px;
+}
+del {
+  background-color: blue;
+}
+img {
+  box-shadow: 5px 5px 25px green;
+  border-radius: 25px;
+}
+video {
+  box-shadow: 5px 5px 25px green;
+  border-radius: 25px;
+}
+.movie_title {
+  color: darkblue;
+}
+#last_movie {
+  color: #005eff;
+}
+p {
+  text-align: justify;
+  width: 95%;
+  margin: auto;
+  background-color: aquamarine;
+  border-radius: 5px;
+  border-left: red solid 7px;
+  border-right: red solid 7px;
+  border-width: 100%;
+}
